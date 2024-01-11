@@ -20,9 +20,9 @@ Yearly Snapshot: The timeline at the top suggests that this data covers multiple
 
 To further increase sales and profits, consider the following approaches:
 
-Bundle popular products with less popular ones to increase the overall sales volume.
-Launch targeted marketing campaigns in high-profit states to further boost sales.
-Investigate the causes of losses in specific states and implement cost-saving measures or tailor the product offering to suit local preferences.
-Review the product portfolio regularly to ensure that it aligns with consumer demand and profitability targets.
-Enhance the online and mobile shopping experience, as this could be a significant driver for increased sales.
-Use customer data to personalize marketing efforts and improve customer retention.
+- Bundle popular products with less popular ones to increase the overall sales volume.
+- Launch targeted marketing campaigns in high-profit states to further boost sales.
+- Investigate the causes of losses in specific states and implement cost-saving measures or tailor the product offering to suit local preferences.
+- Review the product portfolio regularly to ensure that it aligns with consumer demand and profitability targets.
+- Enhance the online and mobile shopping experience, as this could be a significant driver for increased sales.
+- Use customer data to personalize marketing efforts and improve customer retention.
